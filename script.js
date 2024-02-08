@@ -43,5 +43,3 @@ function Play_game() {
   else if (player_score > Computer_score) alert("you have beaten the computer");
   else alert("hakom 5wet f score");
 }
-
-Play_game();
